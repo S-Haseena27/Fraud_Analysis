@@ -1,0 +1,117 @@
+2024-02-13 14:32:20,491 - [INFO]- The shape of x_train is (117001, 17) 
+2024-02-13 14:32:20,491 - [INFO]- The shape of y_train is (117001,)
+2024-02-13 14:32:20,491 - [INFO]- The shape of x_test is (33001, 17) 
+2024-02-13 14:32:20,492 - [INFO]- The shape of y_test is (33001,) 
+2024-02-13 14:32:20,648 - [INFO]-  null values in y_train are 2
+2024-02-13 14:32:20,650 - [INFO]-  null values in y_test are 0
+2024-02-13 14:32:20,720 - [INFO]-  null values in y_train are 0
+2024-02-13 14:32:21,165 - [INFO]- std of replaced mean is 10926.058717272479 
+2024-02-13 14:32:21,165 - [INFO]- std of original feature is 12199.059671949917 
+
+2024-02-13 14:32:21,166 - [INFO]- ====================================== 
+
+2024-02-13 14:32:21,176 - [INFO]- std of replaced mode is 10946.247184941958 
+2024-02-13 14:32:21,176 - [INFO]- std of original feature is 12199.059671949917 
+ 
+2024-02-13 14:32:21,176 - [INFO]- ====================================== 
+
+2024-02-13 14:32:21,186 - [INFO]- std of replaced median is 10937.730606975316 
+2024-02-13 14:32:21,186 - [INFO]- std of original feature is 12199.059671949917 
+
+2024-02-13 14:32:21,186 - [INFO]- ======================================
+2024-02-13 14:32:21,204 - [INFO]- std of sample technique is 12616.117495619394 
+2024-02-13 14:32:21,204 - [INFO]- std of original feature is 12199.059671949917 
+
+2024-02-13 14:32:21,204 - [INFO]- ======================================
+2024-02-13 14:32:21,225 - [INFO]- 12616.117495619394
+2024-02-13 14:32:21,225 - [INFO]- random_sample technique is used for null values treatmet in MonthlyIncome feature.....
+2024-02-13 14:32:47,227 - [INFO]- std of replaced mean is 1.1019781568590787 
+2024-02-13 14:32:47,228 - [INFO]- std of original feature is 1.1168641298786939 
+
+2024-02-13 14:32:47,228 - [INFO]- ====================================== 
+
+2024-02-13 14:32:47,237 - [INFO]- std of replaced mode is 1.1087187771575664 
+2024-02-13 14:32:47,237 - [INFO]- std of original feature is 1.1168641298786939 
+ 
+2024-02-13 14:32:47,237 - [INFO]- ====================================== 
+
+2024-02-13 14:32:47,244 - [INFO]- std of replaced median is 1.1087187771575664 
+2024-02-13 14:32:47,245 - [INFO]- std of original feature is 1.1168641298786939 
+
+2024-02-13 14:32:47,245 - [INFO]- ======================================
+2024-02-13 14:32:47,259 - [INFO]- std of sample technique is 1.1163248180979046 
+2024-02-13 14:32:47,259 - [INFO]- std of original feature is 1.1168641298786939 
+
+2024-02-13 14:32:47,259 - [INFO]- ======================================
+2024-02-13 14:32:47,282 - [INFO]- 1.1163248180979046
+2024-02-13 14:32:47,282 - [INFO]- random_sample technique is used for null values treatmet in NumberOfDependents feature.....
+2024-02-13 14:33:34,360 - [INFO]- NPA Status is not deleted from dataset.......
+2024-02-13 14:33:34,394 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,395 - [INFO]- RevolvingUtilizationOfUnsecuredLines is not deleted from dataset.......
+2024-02-13 14:33:34,427 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,427 - [INFO]- age is not deleted from dataset.......
+2024-02-13 14:33:34,460 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,460 - [INFO]- Gender is not deleted from dataset.......
+2024-02-13 14:33:34,491 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,491 - [INFO]- Region is not deleted from dataset.......
+2024-02-13 14:33:34,527 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,527 - [INFO]- MonthlyIncome is not deleted from dataset.......
+2024-02-13 14:33:34,558 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,559 - [INFO]- Rented_OwnHouse is not deleted from dataset.......
+2024-02-13 14:33:34,600 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,600 - [INFO]- Occupation is not deleted from dataset.......
+2024-02-13 14:33:34,638 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,638 - [INFO]- Education is not deleted from dataset.......
+2024-02-13 14:33:34,677 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,678 - [INFO]- NumberOfTime30-59DaysPastDueNotWorse is not deleted from dataset.......
+2024-02-13 14:33:34,720 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,720 - [INFO]- DebtRatio is not deleted from dataset.......
+2024-02-13 14:33:34,757 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,757 - [INFO]- NumberOfOpenCreditLinesAndLoans is not deleted from dataset.......
+2024-02-13 14:33:34,792 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,792 - [INFO]- NumberOfTimes90DaysLate is not deleted from dataset.......
+2024-02-13 14:33:34,825 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,825 - [INFO]- NumberRealEstateLoansOrLines is not deleted from dataset.......
+2024-02-13 14:33:34,858 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,858 - [INFO]- NumberOfTime60-89DaysPastDueNotWorse is not deleted from dataset.......
+2024-02-13 14:33:34,888 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,888 - [INFO]- NumberOfDependents is not deleted from dataset.......
+2024-02-13 14:33:34,932 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,948 - [INFO]- MonthlyIncome_mean is deleted from dataset.......
+2024-02-13 14:33:34,985 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:34,999 - [INFO]- MonthlyIncome_mode is deleted from dataset.......
+2024-02-13 14:33:35,035 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:35,048 - [INFO]- MonthlyIncome_median is deleted from dataset.......
+2024-02-13 14:33:35,089 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:35,103 - [INFO]- MonthlyIncome_replaced is deleted from dataset.......
+2024-02-13 14:33:35,136 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:35,143 - [INFO]- NumberOfDependents_mean is deleted from dataset.......
+2024-02-13 14:33:35,167 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:35,177 - [INFO]- NumberOfDependents_mode is deleted from dataset.......
+2024-02-13 14:33:35,204 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:35,213 - [INFO]- NumberOfDependents_median is deleted from dataset.......
+2024-02-13 14:33:35,250 - [INFO]- removing replaced columns are None
+2024-02-13 14:33:35,261 - [INFO]- NumberOfDependents_replaced is deleted from dataset.......
+2024-02-13 14:33:35,295 - [INFO]- removing replaced columns are None
+2024-02-13 14:36:25,977 - [INFO]- .......After Scaling the values .......
+2024-02-13 14:36:26,006 - [INFO]- None
+2024-02-13 14:36:26,020 - [INFO]- None
+2024-02-13 14:36:26,020 - [INFO]-         RevolvingUtilizationOfUnsecuredLines  ...     Education
+138142                             -0.477735  ...  Professional
+5684                                1.544639  ...        Matric
+93900                              -0.910652  ...      Graduate
+44457                              -1.172131  ...     Post-Grad
+62087                              -0.958689  ...  Professional
+
+[5 rows x 12 columns]
+2024-02-13 14:36:26,048 - [INFO]-         RevolvingUtilizationOfUnsecuredLines  ...     Education
+144114                             -0.990248  ...  Professional
+85944                              -0.109045  ...      Graduate
+27323                              -0.834050  ...      Graduate
+87577                              -0.674204  ...      Graduate
+9774                                1.539636  ...        Matric
+
+[5 rows x 12 columns]
+2024-02-13 14:37:13,229 - [INFO]- ......After converting categorical to numerical  .......
+2024-02-13 14:37:13,237 - [INFO]- None
+2024-02-13 14:37:13,245 - [INFO]- None
